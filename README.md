@@ -1,6 +1,6 @@
 # SQL Injection Demonstration Website
 
-This simple web application demonstrates the power of SQL injection attacks and how to prevent it.
+This simple web application that demonstrates the power of SQL injection attacks and how to prevent them.
 
 ## Overview
 
