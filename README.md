@@ -1,15 +1,3 @@
-# SQL injection demo website  
-
-A simple database is created with a single user called admin and password of 1234.
-
-When using the `vulnrable login` button, we can construct the following SQL injection:    
-username = `'OR 1=1--`    
-password = whatever  
-
-however, when clicking on the `secured login` button, this wont work anymore since we are using parametrized queries.
-
-Developed using Flask.
-
 # SQL Injection Demonstration Website
 
 This simple web application demonstrates the power of SQL injection attacks and how to prevent it.
